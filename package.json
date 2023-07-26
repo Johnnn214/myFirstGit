@@ -1,0 +1,19 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnnn214/myFirstGit.git"
+  },
+  "author": "John Mar Quirona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnnn214/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/Johnnn214/myFirstGit#readme"
+}
